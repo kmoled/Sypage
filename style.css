@@ -17,6 +17,7 @@ body {
   bottom: 5vh;
 
   background-color: aliceblue;
+  opacity: 0.5;
   width: 100vw;
   height: 10vh;
 }
