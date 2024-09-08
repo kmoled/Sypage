@@ -188,6 +188,10 @@ body {
   font-size: 30px;
   color: #000033;
 }
+.link {
+  color: #000033;
+  text-decoration-line: none;
+}
 @media (max-width: 640px) {
   .mainPage {
     display: flex;
